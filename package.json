@@ -1,0 +1,24 @@
+{
+	"name": "workflow-qqbot",
+	"version": "0.1.0",
+	"engines": {
+		"node": ">=12.16.2"
+	},
+	"description": "a decentralize cooperation workflow, qqbot part.",
+	"keywords": [
+		"qqbot"
+	],
+	"repository": "github:H4M5TER/workflow-bot",
+	"homepage": "https://github.com/h4m5ter/co-workflow-bot#readme",
+	"bugs": "https://github.com/h4m5ter/co-workflow-bot/issues",
+	"license": "MIT",
+	"author": "H4M5TER <zhuxx2003@163.com> (https://github.com/h4m5ter/)",
+	"dependencies": {},
+	"scripts": {},
+	"devDependencies": {
+		"typescript": "^3.8.3",
+		"@types/node": "^13.13.1",
+		"ts-node": "^8.9.0",
+		"koishi": "^1.9.0"
+	}
+}
